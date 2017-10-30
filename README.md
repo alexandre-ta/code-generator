@@ -1,0 +1,2 @@
+# code-generator
+Fast compile time, reducing execution time of program, providing useful error message and reducing size of file generated are the main purposes of a compiler. Following the development of compiler technologies, compilers have become more and more powerful and efficient. The performance of some open-source compilers is good enough to catch our focus. In this project, our aim is to develop a lexical-syntax analyser and implementing the code generator for LLVM assembly.
