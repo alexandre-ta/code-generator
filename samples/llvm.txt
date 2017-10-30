@@ -1,0 +1,11 @@
+int func()
+{
+return 9;
+}
+
+int main()
+{
+int a = 19;
+int e = 4;
+return 7;
+}
